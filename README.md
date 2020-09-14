@@ -7,4 +7,4 @@ a powercord plugin that notifies you when someone removes you from their friends
 
 # install
 
-https://github.com/Subitize/relationship-notifier-master
+git https://github.com/Subitize/relationship-notifier-master
