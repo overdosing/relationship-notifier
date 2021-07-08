@@ -9,4 +9,4 @@ this plugin was originally created by hellbound but included malicious code. thi
 
 # install
 
-git https://github.com/subitize/relationship-notifier-master
+git https://github.com/overdosing/relationship-notifier-master
